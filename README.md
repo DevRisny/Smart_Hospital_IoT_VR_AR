@@ -58,7 +58,6 @@ docs/
                                               Proposed Solution, IoT Simulation, VR Simulation,
                                               AR Simulation, Integration, Conclusion)
 diagrams/
-  City_Hospital_ER_Diagram.png  Supporting database/entity diagram for the ward scenario
   SmartHospital_QR.png          QR code linking to the AR experience
 ```
 
