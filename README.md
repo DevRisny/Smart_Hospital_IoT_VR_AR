@@ -50,22 +50,23 @@ A proof-of-concept limited to a single patient ward area (two patient bed sectio
 
 ```
 packet-tracer/
-  Risny_03241035_SmartHospital.pkt   Cisco Packet Tracer source file — open with
-                                      Packet Tracer 8.2.2+ to explore/simulate the
-                                      live IoT network described above
+  Smart_Hospital_IoT.pkt              Cisco Packet Tracer source file — open with
+                                       Packet Tracer 8.2.2+ to explore/simulate the
+                                       live IoT network described above
 docs/
-  SmartHospital_Report.pdf    Full project report (7 chapters: Introduction, Proposed
-  SmartHospital_Report.docx   Solution, IoT Simulation, VR Simulation, AR Simulation,
-                               Integration, Conclusion)
+  HDIT-B1-027_Smart_Hospital_EM_Report.pdf   Full project report (7 chapters: Introduction,
+                                              Proposed Solution, IoT Simulation, VR Simulation,
+                                              AR Simulation, Integration, Conclusion)
 diagrams/
   City_Hospital_ER_Diagram.png  Supporting database/entity diagram for the ward scenario
   SmartHospital_QR.png          QR code linking to the AR experience
 ```
 
-The VR and AR projects live in their respective platforms (not distributable as a plain repo file):
+The VR and AR projects live in their respective platforms (not distributable as a plain repo file), and the demo video is too large for this repository (see below):
 
 - **VR (Delightex EDU):** edu.delightex.com/RLP-BQU
 - **AR (MyWebAR):** mywebar.com/p/Project_0_zo25pog188
+- **Demo video:** *City Hospital_Demo.mp4* — available on request (file is ~430 MB, over GitHub's practical hosting limits for this repo)
 
 ## Author
 
