@@ -62,11 +62,11 @@ diagrams/
   SmartHospital_QR.png          QR code linking to the AR experience
 ```
 
-The VR and AR projects live in their respective platforms (not distributable as a plain repo file), and the demo video is too large for this repository (see below):
+The VR and AR projects live in their respective platforms, and the demo video (~430 MB, too large for GitHub) is hosted on OneDrive — none of these are distributable as plain repo files:
 
 - **VR (Delightex EDU):** edu.delightex.com/RLP-BQU
 - **AR (MyWebAR):** mywebar.com/p/Project_0_zo25pog188
-- **Demo video:** *City Hospital_Demo.mp4* — available on request (file is ~430 MB, over GitHub's practical hosting limits for this repo)
+- **Demo video:** [City Hospital_Demo.mp4 (OneDrive)](https://icstechnologycampus-my.sharepoint.com/:v:/g/personal/03241035_icst_edu_lk/IQAxfat--jweSLaI0jM8dFwLAdBoh0Mzb1NvkqldqcVJIm8)
 
 ## Author
 
